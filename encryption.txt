@@ -1,0 +1,10 @@
+Encryption
+Once you have created an account and signed
+1.There is text folder
+2.This folder is encrypted
+3.So when ever you add a new file set a password or key to encrypt that text file
+4.Make sure it is in .txt format
+5.Other documents like doc,pdf..etc not supported
+
+
+                                                               X-----------------------------------------------------------------X 

@@ -1,0 +1,12 @@
+Cloud Storage
+Once you have created an account and signed in
+1.You can see list folders
+2.Folders like audio,video,text,images
+3.You can place any types of files in any folders but it will be easy if you put folders according 
+  its character
+4.Text folders are encrypted
+5.So you can save important text documents in it with the help of a password
+6.Make sure that the files is in .txt format
+        
+
+		              X-------------------------------------------------------X
